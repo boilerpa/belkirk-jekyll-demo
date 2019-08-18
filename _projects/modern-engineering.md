@@ -22,4 +22,5 @@ Resident Professors Murphy Tiernan and Kelly Brewer have collaborated over the l
 * Edition Two - 2017
 
     // Comment
+    
     $('.home').addClass();
